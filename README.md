@@ -124,7 +124,7 @@ Welcome to my GitHub profile! Here's a little about me:<br />
 <br />
 
 <p align="center"><img src="./programmer.gif" width="200px"/></p>
-<p align="center">Developers at work: Turning coffee into code since forever!</p>
+<p align="center">Developer at work: Turning coffee into code since forever!</p>
 
 [website]: https://abhishekvishwakarma.com
 [twitter]: https://twitter.com/abhigdrv
