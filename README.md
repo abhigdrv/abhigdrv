@@ -18,14 +18,14 @@ I am passionate about crafting robust and innovative solutions, and my journey i
 
 ## JavaScript Maestro: Deadline-Driven and Master of Timely Task Completion
 
-Welcome to my GitHub profile! Here's a little about me:
-🔭 I’m currently working on exciting web development projects using Angular, Node, React, and Next.js.
-🌱 I’m continuously learning and expanding my skills in AWS, Docker, Javascript, and Node to integrate robust backend solutions.
-👯 I’m looking to collaborate on innovative web development projects and open-source contributions.
-🤔 I’m looking for help with implementing best practices in cloud architecture and database management.
-💬 Ask me about anything related to full-stack development, Scrum methodology, or tech trends!
-📫 How to reach me: abhigdrv@gmail.com
-😄 Pronouns: He/Him
+Welcome to my GitHub profile! Here's a little about me:<br />
+🔭 I’m currently working on exciting web development projects using Angular, Node, React, and Next.js.<br />
+🌱 I’m continuously learning and expanding my skills in AWS, Docker, Javascript, and Node to integrate robust backend solutions.<br />
+👯 I’m looking to collaborate on innovative web development projects and open-source contributions.<br />
+🤔 I’m looking for help with implementing best practices in cloud architecture and database management.<br />
+💬 Ask me about anything related to full-stack development, Scrum methodology, or tech trends!<br />
+📫 How to reach me: abhigdrv@gmail.com<br />
+😄 Pronouns: He/Him<br />
 ⚡ Fun fact: I love staying updated with the latest tech developments and enjoy solving complex coding challenges. And yes, I do know why JavaScript developers prefer dark mode – because light attracts bugs!
 
 
