@@ -6,7 +6,8 @@
 [![https://medium.com/@abhigdrv](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://medium.com/@abhigdrv)](https://medium.com/@abhigdrv)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhigdrv)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigdrv&label=Profile%20views&color=brightgreen&style=plastic&base=1938" alt="abhigdrv" /> </p>
+[![wakatime](https://wakatime.com/badge/user/28d90d26-0903-4113-ab6e-a0093284b807.svg?style=plastic)](https://wakatime.com/@28d90d26-0903-4113-ab6e-a0093284b807)
+<img src="https://komarev.com/ghpvc/?username=abhigdrv&label=Profile%20views&color=brightgreen&style=plastic&base=1938" alt="abhigdrv" />
 
 I am Abhishek Vishwakarma, a seasoned **Full Stack Developer** with more than **5** years of expertise in a diverse range of technologies. My skills encompass the following:
 **Frontend Development:** Proficient in Angular, React, and Next Js.
@@ -45,7 +46,7 @@ Welcome to my GitHub profile! Here's a little about me:<br />
 
 ## 🚀 Languages and Tools
 
-### 👉 Front-end
+### 🖥️ Front-end
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -64,7 +65,7 @@ Welcome to my GitHub profile! Here's a little about me:<br />
 <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 
-### 👉 Back-end
+### 🗄️ Back-end
 
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -73,7 +74,7 @@ Welcome to my GitHub profile! Here's a little about me:<br />
 <img alt="Yii2" src="https://img.shields.io/badge/yii2-%23000000.svg?style=for-the-badge&logo=yii&logoColor=white" />
 </p>
 
-### 👉 Programming Language
+### 🔡 Programming Language
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -82,7 +83,7 @@ Welcome to my GitHub profile! Here's a little about me:<br />
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### 👉 Database
+### 🛢 Database
 
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -90,14 +91,14 @@ Welcome to my GitHub profile! Here's a little about me:<br />
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 👉 Unit Testing
+### 🧪 Unit Testing
 
 <p>
 <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </p>
 
-### 👉 Version Control
+### 🐈‍⬛ Version Control
 
 <p>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
